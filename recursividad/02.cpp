@@ -10,7 +10,6 @@ int main()
     cout<<"Multiplicando : "; cin>>multiplicando;
     cout<<"Multiplicador : "; cin>>multiplicador;
     
-    //for (int n = Multiplicando; Multiplicador-- >1; Multiplicando += n );
     cout<<"Producto  "<<multiplicar(multiplicando, multiplicador)<<endl;
     
     return 0;
